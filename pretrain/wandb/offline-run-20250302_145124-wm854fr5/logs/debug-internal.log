@@ -1,0 +1,14 @@
+{"time":"2025-03-02T14:51:24.679419996+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/wandb/offline-run-20250302_145124-wm854fr5/logs/debug-core.log"}
+{"time":"2025-03-02T14:51:24.787630547+05:30","level":"INFO","msg":"created new stream","id":"wm854fr5"}
+{"time":"2025-03-02T14:51:24.787676163+05:30","level":"INFO","msg":"stream: started","id":"wm854fr5"}
+{"time":"2025-03-02T14:51:24.787731807+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:51:24.787793012+05:30","level":"INFO","msg":"sender: started","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:51:24.787831795+05:30","level":"INFO","msg":"handler: started","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:51:24.796767126+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T14:54:18.811721213+05:30","level":"INFO","msg":"stream: closing","id":"wm854fr5"}
+{"time":"2025-03-02T14:54:18.811834024+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T14:54:18.813219673+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T14:54:18.81341564+05:30","level":"INFO","msg":"handler: closed","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:54:18.813448291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:54:18.813484299+05:30","level":"INFO","msg":"sender: closed","stream_id":"wm854fr5"}
+{"time":"2025-03-02T14:54:18.813634651+05:30","level":"INFO","msg":"stream: closed","id":"wm854fr5"}

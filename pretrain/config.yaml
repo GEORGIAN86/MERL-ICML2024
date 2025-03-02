@@ -14,7 +14,7 @@ network:
 
 dataset:
   dataset_name: 'mimic'
-  data_path: 'your_path/' # add your image file path here
+  data_path: '/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain' # add your image file path here
 
 # params for trainer
 trainer:

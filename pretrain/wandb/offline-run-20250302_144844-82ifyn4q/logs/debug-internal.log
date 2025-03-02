@@ -1,0 +1,7 @@
+{"time":"2025-03-02T14:48:44.228827774+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/wandb/offline-run-20250302_144844-82ifyn4q/logs/debug-core.log"}
+{"time":"2025-03-02T14:48:44.337453474+05:30","level":"INFO","msg":"created new stream","id":"82ifyn4q"}
+{"time":"2025-03-02T14:48:44.337516161+05:30","level":"INFO","msg":"stream: started","id":"82ifyn4q"}
+{"time":"2025-03-02T14:48:44.337624855+05:30","level":"INFO","msg":"sender: started","stream_id":"82ifyn4q"}
+{"time":"2025-03-02T14:48:44.337603916+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"82ifyn4q"}
+{"time":"2025-03-02T14:48:44.337669529+05:30","level":"INFO","msg":"handler: started","stream_id":"82ifyn4q"}
+{"time":"2025-03-02T14:48:44.344939215+05:30","level":"INFO","msg":"Starting system monitor"}

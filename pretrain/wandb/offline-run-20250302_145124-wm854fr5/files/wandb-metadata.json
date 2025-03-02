@@ -1,0 +1,30 @@
+{
+  "os":  "Linux-6.8.0-51-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-03-02T09:21:24.666747Z",
+  "program":  "/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/main.py",
+  "codePath":  "pretrain/main.py",
+  "git":  {
+    "remote":  "https://github.com/cheliu-computation/MERL-ICML2024.git",
+    "commit":  "38799b7deb1c9958f41badcfacc6a95192787cc4"
+  },
+  "root":  "/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain",
+  "host":  "POLAROID",
+  "executable":  "/media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/aditi/bin/python3",
+  "codePathLocal":  "main.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "40770207744",
+      "used":  "24587067392"
+    }
+  },
+  "memory":  {
+    "total":  "32937459712"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}

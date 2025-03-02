@@ -1,0 +1,22 @@
+2025-03-02 14:48:04,240 INFO    MainThread:348306 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-03-02 14:48:04,240 INFO    MainThread:348306 [wandb_setup.py:_flush():67] Configure stats pid to 348306
+2025-03-02 14:48:04,240 INFO    MainThread:348306 [wandb_setup.py:_flush():67] Loading settings from /home/sumit/.config/wandb/settings
+2025-03-02 14:48:04,240 INFO    MainThread:348306 [wandb_setup.py:_flush():67] Loading settings from /media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/wandb/settings
+2025-03-02 14:48:04,240 INFO    MainThread:348306 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/wandb/offline-run-20250302_144804-a1k86pe5/logs/debug.log
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /media/sumit/dd6174bf-2d05-4a68-9324-d66b0a8e63762/Aditi/MERL-ICML2024/pretrain/wandb/offline-run-20250302_144804-a1k86pe5/logs/debug-internal.log
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:init():761] calling init triggers
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'total_epochs': 20, 'weight_decay': 1e-08, 'ecg_model': 'vit_tiny', 'text_model': 'ncbi/MedCPT-Query-Encoder', 'batch_size': 128, 'val_zeroshot': 'all_sets', 'prompt_type': 'CKEPE', '_wandb': {}}
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:init():784] starting backend
+2025-03-02 14:48:04,241 INFO    MainThread:348306 [wandb_init.py:init():788] sending inform_init request
+2025-03-02 14:48:04,247 INFO    MainThread:348306 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-02 14:48:04,248 INFO    MainThread:348306 [wandb_init.py:init():803] backend started and connected
+2025-03-02 14:48:04,250 INFO    MainThread:348306 [wandb_init.py:init():896] updated telemetry
+2025-03-02 14:48:04,258 INFO    MainThread:348306 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-02 14:48:04,462 INFO    MainThread:348306 [wandb_init.py:init():995] starting run threads in backend
+2025-03-02 14:48:04,645 INFO    MainThread:348306 [wandb_run.py:_console_start():2377] atexit reg
+2025-03-02 14:48:04,645 INFO    MainThread:348306 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-02 14:48:04,646 INFO    MainThread:348306 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-02 14:48:04,646 INFO    MainThread:348306 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-03-02 14:48:04,649 INFO    MainThread:348306 [wandb_init.py:init():1037] run started, returning control to user process
